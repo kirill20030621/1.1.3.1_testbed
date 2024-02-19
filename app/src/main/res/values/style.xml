@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="text">
+    <item name ="android:textSize">20sp</item>
+    <item name ="android:gravity">center</item>
+    <item name ="fontFamily">@font/kodemonobold</item>
+
+
+</style>
+    <style name="text2">
+        <item name ="android:textSize">20sp</item>
+        <item name ="android:gravity">center</item>
+        <item name ="fontFamily">@font/kodemonomedium</item>
+
+
+    </style>
+    <style name="text3">
+        <item name ="android:textSize">20sp</item>
+        <item name ="android:gravity">center</item>
+        <item name ="fontFamily">@font/kodemonoregular</item>
+
+
+    </style>
+    <style name="text4">
+        <item name ="android:textSize">20sp</item>
+        <item name ="android:gravity">center</item>
+        <item name ="fontFamily">@font/kodemonosemibold</item>
+
+
+    </style>
+</resources>
